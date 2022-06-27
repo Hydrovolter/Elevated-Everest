@@ -5,4 +5,4 @@ Elevated Everest, the best mountain-based theme park to peak our planet.
 Hydrovolter
 
 # Contact Me
-At my [portfolio]{https://hydrovolter.ml}, or other options on my Github Bio.
+At my portfolio (https://hydrovolter.ml/) or other options on my Github Bio.
